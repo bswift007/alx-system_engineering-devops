@@ -1,1 +1,2 @@
-Script that print the abs
+#!/bin/bash
+pwd
